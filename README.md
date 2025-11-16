@@ -21,56 +21,56 @@ Aprenderás: variables, operadores, estructuras de control, métodos, clases, ob
 - **Descripción:** Qué es Java, para qué sirve, y cómo programar sin instalar nada.
 - **Video:** https://youtu.be/g4Sk9qy1AHU
 - **Conclusiones clave:** Java es multiplataforma, seguro y popular.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/capitulo-1
 
 ---
 ## **Capítulo 2 – Variables y Tipos de Datos**
 - **Descripción:** Uso de variables, tipos de datos y entrada básica con Scanner.
 - **Video:** https://youtu.be/YzQPC39KKCs
 - **Conclusiones clave:** int, double, String, declarar variables, leer con Scanner.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/capitulo-2
 ---
 ## **Capítulo 3 – Operadores y Expresiones**
 - **Descripción:** Uso de operadores aritméticos, lógicos y concatenación.
 - **Video:** https://youtu.be/8RnPPWGCEGk
 - **Conclusiones clave:** +, -, \*, /, %, y expresiones.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/java-classes
 ---
 ## **Capítulo 4 – Estructuras de Control**
 - **Descripción:** Uso de condicionales y bucles para controlar el flujo del programa.
 - **Video:** https://youtu.be/LXvSzw7dgro 
 - **Conclusiones clave:** if-else, for, while.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/java-classes
 ---
 ## **Capítulo 5 – Métodos y Parámetros**
 - **Descripción:** Crear funciones, recibir parámetros y devolver valores.
 - **Video:** https://youtu.be/Luv3HGEZCZQ
 - **Conclusiones clave:** public static, parámetros y return.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/java-classes
 ---
 ## **Capítulo 6 – Introducción a POO: Clases y Objetos**
 - **Descripción:** Crear clases, atributos, métodos, y constructores.
 - **Video:** https://youtu.be/ckDB0Heje7Y
 - **Conclusiones clave:** class, objetos, constructor básico.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/java-classes
 ---
 ## **Capítulo 7 – Encapsulación y Getters/Setters**
 - **Descripción:** Usar private, proteger datos y validar atributos.
 - **Video:** https://youtu.be/Sixt1Ix5tfM
 - **Conclusiones clave:** encapsulación, getters, setters.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/java-classes
 ---
 ## **Capítulo 8 – Arrays y Listas de Objetos**
 - **Descripción:** Uso de arrays y ArrayList para manejar múltiples objetos.
 - **Video:** https://youtu.be/Q12KYZdrpf4
 - **Conclusiones clave:** Student[], ArrayList\<Student\>.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/java-classes
 ---
 ## **Capítulo 9 – Mini-Aplicación: Registro de Estudiantes**
 - **Descripción:** Integración de todo lo aprendido en un proyecto simple.
 - **Video:** https://youtu.be/woLYmRE7c-o
 - **Conclusiones clave:** menú interactivo, listas dinámicas, Scanner.
-- **Recurso:** https://replit.com
+- **Recurso:** https://replit.com y https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs/tree/main/starter-files/java-classes
 ---
 ## **Capítulo 10 – Buenas Prácticas y Errores Comunes**
 - **Descripción:** Consejos para mejorar la calidad del código.
@@ -79,16 +79,7 @@ Aprenderás: variables, operadores, estructuras de control, métodos, clases, ob
 ---
 
 ## Recursos adicionales
-- **Código fuente completo**: https://github.com/yourusername/java-fundamentals-course-teamname)
-- **Todas las actividades prácticas**:
-  | Número de lección | Actividad | Empezar a programar |
-  |----------|----------|-------------|
-  | 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-  | 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
-  | 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-  | 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-  | 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- **Código fuente completo**: https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs
 - Compartir: #JavaBeginner
 
 ---
