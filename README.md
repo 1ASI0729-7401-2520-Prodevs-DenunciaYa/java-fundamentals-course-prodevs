@@ -79,7 +79,9 @@ Aprenderás: variables, operadores, estructuras de control, métodos, clases, ob
 ---
 
 ## Recursos adicionales
-- **Código fuente completo**: https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs
+- **Código fuente completo**: https://replit.com/@Gabt04/Java-fundamentals-course?v=1
+- **Curso en YouTube**: https://www.youtube.com/watch?v=g4Sk9qy1AHU&list=PLCjE_qL8rIo6INhUw_FHgSWKU4qCEDJyB
+- **Repositorio de GitHub**: https://github.com/1ASI0729-7401-2520-Prodevs-DenunciaYa/java-fundamentals-course-prodevs
 - Compartir: #JavaBeginner
 
 ---
